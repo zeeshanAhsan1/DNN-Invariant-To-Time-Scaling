@@ -18,4 +18,4 @@ In this network, a CNN is built with a maxpool operation over a logarithmically-
 
 1. Morse Adding Problem
 2. Morse Decoding Problem
-3. My own experiment on Audio Dataset (Arabic Numbers Dataset)
+3. My own experiment on Audio Dataset [Arabic Numbers Dataset](https://www.kaggle.com/datasets/suso172/arabic-natural-audio-dataset)
